@@ -1,0 +1,86 @@
+.course-section{
+border: 2px solid  rgba(171, 82, 82, 0);
+ background-color: #f5f5f5;
+
+}
+.section-padding{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.container{
+    /* margin aouto makes container to left */
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: auto;
+    margin-left: auto;
+
+   
+}
+.img-sec{
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.course-data-sec{
+
+}
+.course-data-sec:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+.col-md-4{
+    height: 498px;
+    width: 30%;
+    border: 1px solid rgba(205, 169, 50, 0);
+  padding-left: 10px;
+  padding-right: 10px;
+    background-color: white;
+
+}
+.col-md-4:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+
+
+
+.imgcol{
+    width: 100%;
+  
+}
+.imglink{
+    color: #5e068a;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: large;
+
+
+}
+.imgpara{
+    font-weight: 500;
+    margin-top: 15px;
+    line-height: 1.6;
+}
+button{
+    background-color:#5e068a ;
+    color: white;
+    border: none;
+    margin-top: 30px;
+    font-size: 20px;
+    padding: 4px 10px;
+}
+.btn-new{
+    background-color: white;
+    border: #5e068a 1px solid;
+    color: #5e068a;
+}
+.btn-new:hover{
+background-color: #5e068a;
+color: white;
+border: #5e068a 1px solid;
+
+
+}
